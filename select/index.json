@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Tokyo Night",
+  "base_artist": "ITAB S IMP SONS",
+  "createdAt": "2025-12-10T07:54:18.066679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tokyo Night",
+      "artist": "J Rush",
+      "has_synced": false,
+      "path": "select/01_Tokyo_Night_J_Rush.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tokyo Night (extended mix)",
+      "artist": "K.L. Jones",
+      "has_synced": false,
+      "path": "select/02_Tokyo_Night_(extended_mix)_K.L._Jones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tokyo Night",
+      "artist": "HIGH and MIGHTY COLOR",
+      "has_synced": false,
+      "path": "select/03_Tokyo_Night_HIGH_and_MIGHTY_COLOR.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "tokyo night dive",
+      "artist": "KOTORI",
+      "has_synced": true,
+      "path": "select/04_tokyo_night_dive_KOTORI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tokyo Night Club",
+      "artist": "Frank Nagai",
+      "has_synced": true,
+      "path": "select/05_Tokyo_Night_Club_Frank_Nagai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tokyo Night",
+      "artist": "Vulfmon",
+      "has_synced": true,
+      "path": "select/06_Tokyo_Night_Vulfmon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tokyo Night (feat. Evangeline)",
+      "artist": "Vulfmon",
+      "has_synced": true,
+      "path": "select/07_Tokyo_Night_(feat._Evangeline)_Vulfmon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tokyo Night",
+      "artist": "ITAB S IMP SONS",
+      "has_synced": false,
+      "path": "select/pl_01_Tokyo_Night_ITAB_S_IMP_SONS.txt"
+    }
+  ]
+}
